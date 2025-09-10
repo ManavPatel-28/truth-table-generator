@@ -33,15 +33,16 @@ It demonstrates low-level programming concepts such as **bitwise operations, fil
 
 📂 Example
 
-Input (input.txt):
+    Input (input.txt):
 
-A B | AND
-0 0 | 0
-0 1 | 0
-1 0 | 0
-1 1 | 1
+    A B | AND
+    0 0 | 0
+    0 1 | 0
+    1 0 | 0
+    1 1 | 1
+
 
 
 Output:
 
-Truth Table generated successfully
+    Truth Table generated successfully
