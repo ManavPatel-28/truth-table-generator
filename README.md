@@ -43,6 +43,18 @@ It demonstrates low-level programming concepts such as **bitwise operations, fil
 
 
 
+## 👨‍🎓 University Project
+This project was developed as part of the **CS112: Data Structures** course at Rutgers University.  
+
+## 👨‍💻 Author
+**Manav Sachin Patel**  
+- [LinkedIn](https://www.linkedin.com/in/manav-patel-211467333)  
+- [GitHub](https://github.com/ManavPatel-28)  
+
+
+
+
+
 Output:
 
     Truth Table generated successfully
