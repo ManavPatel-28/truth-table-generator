@@ -42,6 +42,9 @@ It demonstrates low-level programming concepts such as **bitwise operations, fil
     1 1 | 1
 
 
+Output:
+
+    Truth Table generated successfully
 
 ## 👨‍🎓 University Project
 This project was developed as part of the **CS112: Data Structures** course at Rutgers University.  
@@ -55,6 +58,3 @@ This project was developed as part of the **CS112: Data Structures** course at R
 
 
 
-Output:
-
-    Truth Table generated successfully
