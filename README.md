@@ -46,8 +46,6 @@ Output:
 
     Truth Table generated successfully
 
-## 👨‍🎓 University Project
-This project was developed as part of the **CS112: Data Structures** course at Rutgers University.  
 
 ## 👨‍💻 Author
 **Manav Sachin Patel**  
